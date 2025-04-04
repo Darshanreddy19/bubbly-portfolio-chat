@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://github.com/Darshanreddy19/bubbly-portfolio-chat.git
+**URL**-bubbly-portfolio-chat.lovable.app
 
 ## How can I edit this code?
 
