@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**-bubbly-portfolio-chat.lovable.app
+**URL**-https://bubbly-portfolio-chat.lovable.app/
 
 ## How can I edit this code?
 
